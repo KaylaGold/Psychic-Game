@@ -1,0 +1,14 @@
+.container {
+    width: 50%;
+    border-radius: 15px;
+    padding: 5px;
+    background-color: peru;
+    margin: 0;
+    text-align: center;
+}
+
+body {
+    background-image: url("./assets/images/magical.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
