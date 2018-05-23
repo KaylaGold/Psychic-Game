@@ -1,14 +1,28 @@
-.container {
-    width: 50%;
-    border-radius: 15px;
-    padding: 5px;
-    background-color: peru;
-    margin: 0;
-    text-align: center;
+h1 {
+    text-align:center;
+        color:purple;
+        font-size: 80px;
+}
+
+
+h2 {
+        text-align:center;
+        color:red;
+        font-size: 50px;
 }
 
 body {
-    background-image: url("./assets/images/magical.jpg");
+    background-image: url("./images/magical.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+.container{
+        width: 50%;
+        border-radius: 15px;
+        padding: 5px;
+        background-color: peru;
+        margin: 0;
+        text-align: center;
+    }
+
